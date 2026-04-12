@@ -19,4 +19,4 @@ ignorado.txt
 ### Codigos
 Codigo sin funcionar: falta el #include <stdio.h>, falta algunos ; y faltaba el & en valor1, hacia la funcion cumplia su trabajo pero nunca retornaba esa variable, cambiar la funcion de void a int y agregar una variable que retorne y muestre luego en el printf.
 
-Codigo misterioso: 
+Codigo misterioso: invierte los digitos, los divide por dos y le suma la suma de sus digitos. 
